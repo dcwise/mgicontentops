@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7BC3D31-1045817-12587C528715718-3DFA53"> 
+  <title>杂交前准备</title>  
+  <conbody> 
+    <p>⚫ 杂交捕获前，取出 MGIEasy 外显子组捕获辅助试剂盒中 Block 3/Block 4，室温或者冰上融化后备用， 参考所用探针试剂盒的操作说明进行杂交捕获，Block 3/Block 4 为 MGI 高通量测序平台专用的接头 Block，用于替换其他测序平台的接头 Block。</p>
+    <ul> 
+      <li>杂交捕获后，取出 MGIEasy 外显子组捕获辅助试剂盒中 Post-PCR Enzyme Mix/PCR Primer Mix， 室温或者冰上融化后参考步骤 3.11 进行探针杂交洗脱后的扩增。</li> 
+    </ul>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image002.png"/> 
+      </fig>  
+      <b>注意：若使用</b>MGI Exome V4 Probe 
+      <b>或</b>MGI Exome V5 Probe
+      <b>，则需分别搭配</b>MGIEasy 
+      <b>外 显子组捕获</b>V4 
+      <b>探针试剂套装或</b>MGIEasy 
+      <b>外显子组捕获</b>V5 
+      <b>探针试剂套装，并参考《</b>MGIEasy 
+      <b>外显子组捕获</b>V4 
+      <b>探针试剂套装使用说明书》或《</b>MGIEasy 
+      <b>外显子组捕获</b>V5 
+      <b>探针试剂套装使用 说明书》完成杂交捕获流程；</b>
+    </p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image002.png"/>  
+      <b>注意：若使用其他商业探针，则需参考其对应的杂交捕获流程，将其中针对非</b>MGI 
+      <b>平台所用的接 头封闭序列替换为本试剂盒中的</b>Block 3 
+      <b>和</b>Block 4
+      <b>，推荐体积和替换方案如下：</b>
+    </p>  
+    <p>表 15 针对主流商业探针推荐 Block3 和 Block4 使用体积和替换方案</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image003.png"/> 
+      </fig> 
+    </p>  
+    <p>MGI Exome V4 Probe 1 μL 10 μL 无</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image004.png"/> 
+    </p>  
+    <p>MGI Exome V5 Probe 1 μL 10 μL 无</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>SureSelect Human All</p>  
+    <p>Exon V6 等同类</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image005.png"/>SureSelect 系列探针
+    </p>  
+    <p>SeqCap® EZ Human</p>  
+    <p>1 μL 10 μL SureSelect Indexing Block #3</p>  
+    <p>SeqCap HE Universal Oligo; SeqCap HE Index 2 Oligo;</p>  
+    <p>Exome Probes v3.0</p>  
+    <p>xGen Exome Research Panel</p>  
+    <p>1 μL 10 μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image006.png"/>1 μL 10 μL
+    </p>  
+    <p>SeqCap HE Index 4 Oligo;</p>  
+    <p>SeqCap HE Index 6 Oligo;</p>  
+    <p>SeqCap HE Index 8 Oligo</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image007.png"/>xGen® Universal Blocking Oligo (1); xGen® Universal Blocking Oligo (2); xGen® Universal Blocking Oligo (3)
+    </p>  
+    <p>表 16 针对主流商业探针推荐杂交后 PCR 循环数</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image008.png"/> 
+      </fig> 
+    </p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image009.png"/>MGI Exome V4 Probe 12
+    </p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image009.png"/>MGI Exome V5 Probe 12
+    </p>  
+    <p>SeqCap EZ Human Exome Probes v3.0 12</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image009.png"/> 
+      </fig>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image010.png"/>xGen Exome Research Panel 6 (12 pool)-10 (1 pool) SureSelect Human All Exon V6
+    </p>  
+    <p>12</p>  
+    <p>等同类 SureSelect 系列探针</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic26_image011.png"/> 
+      </fig> 
+    </p>  
+    <p> 
+      <b>以下</b>3.9-3.11 
+      <b>步骤是以</b>NimbleGen
+      <b>®</b>SeqCap EZ 
+      <b>捕获流程为例进行的标准实验操作流程：</b>
+    </p>  
+    <p>3.9.1 根据杂交所需要的样本投入量，按照表 12 推荐的 PCR cycle 数进行扩增，并根据附录 B 关于 Adapter 使用的接头使用规则合理选择建库接头。然后根据 SeqCap EZ Library SR User’s Guide 操作说明中要求的 PCR 产物投入量进行杂交。</p> 
+  </conbody> 
+</concept>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A3153910-0458147-1F2587525874578-4C35AF"> 
+  <title>接头连接</title>  
+  <conbody> 
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic21_image002.png"/> 
+      </fig>  
+      <b>注意：操作前请仔细阅读附录</b>B 
+      <b>关于</b>Adapter 
+      <b>使用。</b>
+    </p>  
+    <p>3.4.1 参照 MGIEasy DNA Adapters 说明书使用规则（附录 B 关于 Adapter 使用），在步骤 3.3.5 的 PCR 管中加入 5 μL 对应的 MGIEasy DNA Adapters，涡旋震荡 3 次，每次 3 s，瞬时离心将反应 液收集至管底。</p>  
+    <p>3.4.2 在冰上配制接头连接反应液（见表 10）。</p>  
+    <p>表 10 接头连接反应液的配制</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic21_image003.png"/> 
+    </p>  
+    <p>Ligation Buffer 23.4 μL</p>  
+    <p>DNA Ligase 1.6 μL</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic21_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>Total 25μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic21_image005.png"/> 
+    </p>  
+    <p>3.4.3 用移液器缓慢吸取 25 μL 配制好的接头连接反应液加入步骤 3.4.1 的 PCR 管中，涡旋震荡 6 次，</p>  
+    <p>每次 3 s，瞬时离心将反应液收集至管底。 
+      <b>注意：接头连接反应液较粘稠，操作时请慢吸慢放，确保加液量正确；涡旋震荡多次确保完全混匀。</b>
+    </p>  
+    <p>3.4.4 将步骤 3.4.3 所述 PCR 管置于 PCR 仪上，按照表 11 中的条件进行反应。</p>  
+    <p>表 11 接头连接反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic21_image006.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>23°C 30 min</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic21_image005.png"/> 
+    </p>  
+    <p>3.4.5 反应结束后，瞬时离心将反应液收集至管底。</p>  
+    <p>3.4.6 加入 20 μL TE Buffer 至总体系 100 μL，全部转移到新的 1.5 mL 离心管中。</p>  
+    <p>✔ 
+      <b>停止点：接头连接后产物可暂时放置</b>-20
+      <b>°</b>C 
+      <b>冰箱，不超过</b>16 h
+      <b>。</b>
+    </p> 
+  </conbody> 
+</concept>

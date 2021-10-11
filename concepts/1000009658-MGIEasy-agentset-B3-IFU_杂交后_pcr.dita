@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="ABC15113-9104384-71214A7C1C25874-B92BB4"> 
+  <title>杂交后 PCR</title>  
+  <conbody> 
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image001.png"/>3.11.1 取出 MGIEasy 外显子组捕获辅助试剂盒，在冰上配制杂交后 PCR 反应液（见表 17）。 表 17 杂交后 PCR 反应液的配制
+    </p>
+    <p>Post-PCR Enzyme Mix 50 μL</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image002.png"/> 
+      </fig>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image003.png"/>PCR Primer Mix 6 μL Total 56 μL
+    </p>  
+    <p>3.11.2 用移液器吸取 56 μL 配制好的杂交后 PCR 反应液加入 44 μL 含有磁珠捕获样品的 PCR 管 中，涡旋震荡 3 次，每次 3 s，瞬时离心将反应液收集至管底。</p>  
+    <p>3.11.3 将步骤 3.11.2 所述 PCR 管置于 PCR 仪上，按照表 18 的条件进行杂交后 PCR 反应。</p>  
+    <p>表 18 杂交后 PCR 反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>95°C 3 min 1 循环</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image005.png"/> 
+    </p>  
+    <p>98°C 20 s</p>  
+    <p>60°C 15 s</p>  
+    <p>72°C 30 s</p>  
+    <p>X 循环</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image005.png"/> 
+      </fig> 
+    </p>  
+    <p>72°C 10 min 1 循环</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image006.png"/> 
+    </p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic28_image008.png"/> 
+      </fig>  
+      <b>注意： 表中“</b>X
+      <b>”处</b>cycle 
+      <b>数可参考本说明书表</b>16
+      <b>，如本例中“</b>X
+      <b>”为</b>12
+      <b>。</b>3.11.4 反应结束后，瞬时离心将反应液收集至管底。
+    </p>  
+    <p>3.11.5 将 PCR 管置于磁力架上，静置 2-5 min 至液体澄清，用移液器吸取 100 μL 上清液转移到新 的 1.5 mL 离心管中。</p> 
+  </conbody> 
+</concept>

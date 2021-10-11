@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A3D511A3-91537F2-A7D128557FFEE6F-249C4D"> 
+  <title>酶切消化</title>  
+  <conbody> 
+    <p>3.15.1 在步骤 3.14.3 反应时，提前在冰上配制酶切消化反应液 (见表 22)。</p>
+    <p>表 22 酶切消化反应液的配制</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic32_image001.png"/> 
+      </fig> 
+    </p>  
+    <p>Digestion Buffer 1.4 μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic32_image002.png"/>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic32_image003.png"/>Digestion Enzyme 2.6 μL Total 4.0 μL
+    </p>  
+    <p>3.15.2 用移液器吸取 4 μL 配制好的酶切消化反应液加入步骤 3.14.4 的 PCR 管中，涡旋震荡 3 次，每次 3 s，瞬时离心将反应液收集至管底。</p>  
+    <p>3.15.3 将步骤 3.15.2 所述 PCR 管置于 PCR 仪上，按照表 23 的条件进行反应。</p>  
+    <p>表 23 酶切消化反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic32_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>37°C 30 min</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic32_image005.png"/> 
+    </p>  
+    <p>3.15.4 反应结束后，瞬时离心将反应液收集至管底。</p>  
+    <p>3.15.5 立即向 PCR 管中加入 7.5 μL Digestion Stop Buffer，涡旋震荡 3 次，每次 3 s，瞬时离心将反应 液收集至管底，吸取全部反应液转移到新的 1.5 mL 离心管中。</p> 
+  </conbody> 
+</concept>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="ABC3D31A-0045384-F21548C13258455-55FEBB"> 
+  <title>杂交捕获</title>  
+  <conbody> 
+    <p>3.10.1 参照 SeqCap EZ Library SR User’s Guide Chapter 5 Step.3, 将 MGIEasy 外显子组捕获辅 助试剂盒中的 Block 3 和 Block 4 组份替换 Step 4 中 SeqCap HE Universal Oligo 和 SeqCap HE Index 2/4/6/8 Oligo。Block3 和 Block4 使用体积和替换方案参考本说明书表 15。</p>
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic27_image002.png"/> 
+      </fig>  
+      <b>注意：如果</b>Block 3 
+      <b>与</b>Block 4 
+      <b>的使用体积高于探针试剂盒说明书中被替换试剂的使用体积，则 可 将 该 两 个 组 份 在 样 品 浓 缩 前 加 入 ， 通 过 浓 缩 控 制 反 应 体 系 的 体 积 。（ 如 本 例 中 ，</b>RSS_SeqCap_EZ_UGuide_v5.4 
+      <b>要求将</b>Multiplex Hybridization Enhancing Oligo Pool 
+      <b>加 入样品中一并进行浓缩，控制体积。）</b>
+    </p>  
+    <p>3.10.2 参照 RSS_SeqCap_EZ_UGuide_v5.4 Chapter 5-6 进行杂交捕获与洗脱。本说明书未提及的 试剂均以探针产品说明书为准。</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic27_image002.png"/>  
+      <b>注意：洗脱后进行下一步杂交后</b>PCR 
+      <b>时要求含磁珠样品体积为</b>44 
+      <b>μ</b>L
+      <b>， 如探针产品说明书中要 求的扩增样品体积小于</b>44 
+      <b>μ</b>L
+      <b>，使用</b>NF water 
+      <b>将样品体积补为</b>44 
+      <b>μ</b>L
+      <b>。如探针产品说明书中要 求的扩增样品体积大于</b>44 
+      <b>μ</b>L
+      <b>，需要将洗脱液体积减少为</b>44 
+      <b>μ</b>L
+      <b>。</b>
+    </p> 
+  </conbody> 
+</concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A73D131A-3905381-71F21A7D4527417-A5DB7D"> 
+  <title>变性</title>  
+  <conbody> 
+    <p>3.13.1 根据 PCR 产物的主片段分布，取 1 pmol PCR 产物至新的 0.2 mL PCR 管中，用 TE Buffer 补充 至总体积 48 μL。</p>
+    <p>3.13.2 将步骤 3.13.1 所述 PCR 管置于 PCR 仪上，按照表 19 的条件进行反应：</p>  
+    <p>表 19 变性反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic30_image001.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>95°C 3 min</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic30_image002.png"/> 
+    </p>  
+    <p>3.13.3 反应结束后，立即将步骤 3.13.2 所述 PCR 管转移到冰上，静置 2 min 后瞬时离心。</p> 
+  </conbody> 
+</concept>

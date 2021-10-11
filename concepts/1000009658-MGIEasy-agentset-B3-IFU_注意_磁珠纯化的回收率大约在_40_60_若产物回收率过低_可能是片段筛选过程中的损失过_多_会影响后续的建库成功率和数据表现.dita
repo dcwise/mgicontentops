@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7CD1190-458141F-21A7F258709CD5C-42D917"> 
+  <title>/ 注意：磁珠纯化的回收率大约在 40~60%。若产物回收率过低，可能是片段筛选过程中的损失过 多，会影响后续的建库成功率和数据表现。</title>  
+  <conbody> 
+    <p>✔ 
+      <b>停止点：磁珠片段筛选</b>/
+      <b>纯化后产物，可置</b>-20
+      <b>°</b>C 
+      <b>冰箱储存。</b>
+    </p>
+  </conbody> 
+</concept>

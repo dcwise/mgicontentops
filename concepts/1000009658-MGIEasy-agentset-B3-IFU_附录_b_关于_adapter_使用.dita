@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7BC3111-A391053-471F2154A7DD528-7157BA"> 
+  <title>附录 B 关于 Adapter 使用</title>  
+  <conbody> 
+    <p> 本试剂套装提供 MGIEasy DNA Adapters-16（管式）试剂盒。该试剂盒为满足大量样本批量化建库、 多样本混合测序而研发，基于碱基平衡的设计原则，经过反复实验测试，挑选了最佳的 Adapter 组合，但 Adapter 编号不连续。为保证最佳效果，使用时请详细阅读附录 B-1 的试剂盒使用规则。</p>
+    <p> 请勿将其置于室温以上的温度，否则易发生解链，影响使用效果。</p>  
+    <p> Adapter 使用前必须先混匀并离心，将液体聚集于管底或板底，用吸水纸擦拭干净管盖；使用时需轻柔地 揭开管盖，防止液体飞溅，避免交叉污染，使用完毕后及时盖上管盖。</p>  
+    <p> 若有使用 MGI 其它建库试剂盒中的序号为 501-596 的接头，由于设计工艺不同，禁止混用，否则数据 无法拆分。</p> 
+  </conbody> 
+</concept>

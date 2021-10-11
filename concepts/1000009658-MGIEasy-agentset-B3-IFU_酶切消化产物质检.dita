@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7B3D51A-3910045-31471F21487D028-741557"> 
+  <title>酶切消化产物质检</title>  
+  <conbody> 
+    <p>使用Qubit® ssDNA Assay Kit荧光定量试剂盒，按照定量试剂盒的操作说明对酶切消化纯化后产物进行定 量。最终要求酶切消化产物产量 /酶切消化反应投入量≥7%。例如：主带350 bp的打断产物，PCR产物主片 段大小为430 bp，投入280 ng进行环化，其酶切消化产物产量应达到19.5 ng。</p>
+  </conbody> 
+</concept>

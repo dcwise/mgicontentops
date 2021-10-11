@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A4C311A3-94311F2-1A871017F10FA9B-973ACF"> 
+  <title>适配测序平台</title>  
+  <conbody> 
+    <p>构建的文库可使用以下测序平台进行测序：</p>
+    <p>BGISEQ-500RS (PE100) MGISEQ-2000RS(PE100/PE150)</p> 
+  </conbody> 
+</concept>

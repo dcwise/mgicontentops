@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7B3D131-A310045-3811F254A8F1355-874157"> 
+  <title>/ 注意：当手动处理大量的样本时，酶切打断反应的控制会变得困难。推荐先在反应管中加入稀释好 的样品，再使用排枪迅速加入酶切反应液，同时确保整个加样过程在冰上进行。</title>  
+  <conbody> 
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image002.png"/> 
+      </fig>  
+      <b>注意：下述酶切打断步骤适用于溶于水、</b>EB
+      <b>、</b>0.1
+      <b>×</b>TE 
+      <b>的 </b>DNA
+      <b>，打断得到的 </b>DNA 
+      <b>片段主带在</b>
+    </p>  
+    <p>300 bp~500 bp 
+      <b>之间，适用于</b>PE150 
+      <b>测序。若是其他溶解</b>buffer
+      <b>，请自行摸索</b>30
+      <b>°</b>C 
+      <b>打断时长。</b>
+    </p>  
+    <p>3.1.1 吸取待打断基因组 DNA 于新的 0.2 mL PCR 管中，体积应≤45 μL，不足 45 μL 部分用补充 buffer</p>  
+    <p>补足（见表 4）：</p>  
+    <p>表 4 DNA 样本的配制</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image003.png"/> 
+    </p>  
+    <p>DNA X μL</p>  
+    <p>补充 buffer 45-X μL</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>Total 45 μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image005.png"/> 
+    </p>  
+    <p>3.1.2 取出 MGIEasy 酶切 DNA 文库制备试剂盒，取出 Frag Buffer II 溶解并涡旋混匀，取出 Frag Enzyme II 上下颠倒 10 次以上至充分混匀
+      <b>（禁止涡旋）</b>，瞬时离心后置于冰上待用。
+    </p>  
+    <p>3.1.3 在冰上配制酶切打断反应液（见表 5），用移液器吹打 10 次以上至完全混匀
+      <b>（禁止涡旋）</b>，瞬时离心 后置于冰上待用：
+    </p>  
+    <p>表 5 酶切打断反应液的配制</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image003.png"/> 
+      </fig> 
+    </p>  
+    <p>Frag Buffer II 10 μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image006.png"/>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image007.png"/>Frag Enzyme II 5 μL Total 15 μL
+    </p>  
+    <p>3.1.4 用移液器吸取 15 μL 配制好的酶切打断反应液加入步骤 3.1.1 的 PCR 管中，将移液器调至 55</p>  
+    <p>μL，吹打 10 次以上至完全混匀，瞬时离心将反应液收集至管底。</p>  
+    <p>3.1.5 提前按照表 6 反应条件设置 PCR 程序并运行，待温度降至 4°C 后，将步骤 3.1.4 所述 PCR 管置 于 PCR 仪上，跳过第一步（4°C Hold）开始 30°C 反应。若 PCR 仪不能实现跳过步骤，可设置 4°C 1 min，待温度降至 4°C 后暂停，放入样本后开始。</p>  
+    <p>表 6 酶切打断反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image008.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>4°C Hold</p>  
+    <p>30°C 8 min</p>  
+    <p>65°C 15 min</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image009.png"/> 
+    </p>  
+    <p>3.1.6 反应结束后，瞬时离心将反应液收集至管底。</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image010.png"/> 
+      </fig>  
+      <b>注意：初次进行样本酶切打断时，建议从</b>3.1.6 
+      <b>样品中取</b>3~5 ng 
+      <b>样本进行</b>1.8x 
+      <b>磁珠纯化（</b>5
+      <b>μ</b>L TE buffer 
+      <b>洗脱，具体步骤参考</b>3.2.2
+      <b>），安捷伦高灵敏度</b>DNA 
+      <b>分析试剂盒分析，正常的</b>PE150 
+      <b>打断片段大小应在</b>100 bp~1000 bp
+      <b>，主峰</b>300 bp~500 bp
+      <b>（如图</b>1
+      <b>）。若片段过大或过小，建 议重新调整</b>30
+      <b>°</b>C 
+      <b>反应时长，进行酶切打断条件测试。</b>
+    </p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic17_image012.png"/> 
+    </p>  
+    <p>图 1 标准流程酶切打断后产物（1.8x 磁珠纯化）Agilent 2100 Bioanalyzer 检测结果</p> 
+  </conbody> 
+</concept>

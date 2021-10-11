@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7B3131A-3100381-41F2154A7C17525-741557"> 
+  <title>PCR</title>  
+  <conbody> 
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image002.png"/> 
+      </fig>  
+      <b>注意：</b>PCR 
+      <b>扩增步骤需要严格控制扩增循环数。循环数不足，会导致文库产出不足；循环数过多， 又会影响后续数据性能表现。表</b>12 
+      <b>给出获得</b>500 ng 
+      <b>和</b>1 
+      <b>μ</b>g PCR 
+      <b>产物推荐的扩增循环数。当基 因组</b>DNA 
+      <b>质量较差、主带较长时，需适当提高循环数以获取足量产物。</b>
+    </p>  
+    <p>打断后磁珠片段</p>  
+    <p>基因组 DNA （ng）</p>  
+    <p>筛选 / 纯化</p>  
+    <p>对应产量所需循环数</p>  
+    <p>500 ng 1 μg</p>  
+    <p>表 12 获得 500 ng 和 1 μg PCR 产物推荐的扩增循环数</p>  
+    <table> 
+      <tgroup cols="4" colsep="1" rowsep="1"> 
+        <colspec colname="col1"/>  
+        <colspec colname="col2"/>  
+        <colspec colname="col3"/>  
+        <colspec colname="col4"/>  
+        <tbody> 
+          <row> 
+            <entry colname="col1">400 ng</entry>  
+            <entry colname="col2">磁珠片段筛选</entry>  
+            <entry colname="col3" translate="no">4-6</entry>  
+            <entry colname="col4" translate="no">6-8</entry> 
+          </row>  
+          <row> 
+            <entry colname="col1">200 ng</entry>  
+            <entry colname="col2">磁珠片段筛选</entry>  
+            <entry colname="col3" translate="no">5-7</entry>  
+            <entry colname="col4" translate="no">7-9</entry> 
+          </row>  
+          <row> 
+            <entry colname="col1">100 ng</entry>  
+            <entry colname="col2">纯化</entry>  
+            <entry colname="col3" translate="no">5-7</entry>  
+            <entry colname="col4" translate="no">7-9</entry> 
+          </row>  
+          <row> 
+            <entry colname="col1">50 ng</entry>  
+            <entry colname="col2">纯化</entry>  
+            <entry colname="col3" translate="no">7-9</entry>  
+            <entry colname="col4" translate="no">9-11</entry> 
+          </row> 
+        </tbody> 
+      </tgroup> 
+    </table>  
+    <p>3.6.1 在冰上配制 PCR 反应液（见表 13）。</p>  
+    <p>表 13 PCR 反应液的配制</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image003.png"/> 
+    </p>  
+    <p>PCR Enzyme Mix 25 μL</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image004.png"/> 
+      </fig>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image005.png"/>PCR Primer Mix 6 μL Total 31 μL
+    </p>  
+    <p>3.6.2 用移液器吸取 31 μL 配制好的 PCR 反应液加入步骤 3.5.10 的 PCR 管中，涡旋震荡 3 次，每次 3 s，瞬时离心将反应液收集至管底。</p>  
+    <p>3.6.3 将步骤 3.6.2 所述 PCR 管置于 PCR 仪上，按照表 14 的条件进行 PCR 反应。</p>  
+    <p>表 14 PCR 扩增反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image006.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 on</p>  
+    <p>95°C 3 min 1 循环</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image007.png"/> 
+    </p>  
+    <p>98°C 20 s</p>  
+    <p>60°C 15 s</p>  
+    <p>72°C 30 s</p>  
+    <p>8 循环</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image007.png"/> 
+      </fig> 
+    </p>  
+    <p>72°C 10 min 1 循环</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image008.png"/> 
+    </p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic23_image009.png"/> 
+      </fig>  
+      <b>注意</b>:
+      <b>表中的循环数以</b>200 ng 
+      <b>建库起始量为标准，不同的起始量请参考表</b>12 
+      <b>进行调整。</b>
+    </p>  
+    <p>3.6.4 反应结束后，瞬时离心将反应液收集至管底，吸取全部反应液转移到新的 1.5 mL 离心管中。</p> 
+  </conbody> 
+</concept>

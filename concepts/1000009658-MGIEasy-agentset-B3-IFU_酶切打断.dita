@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7BC3131-3910537-2A7F155873261A8-722FB4"> 
+  <title>酶切打断</title>  
+  <conbody> 
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic16_image002.png"/> 
+      </fig>  
+      <b>注意：本试剂盒酶切打断是通过控制</b>30
+      <b>°</b>C 
+      <b>反应时间来控制</b>DNA 
+      <b>的片段分布，因此操作过程中请 尽量保证时间和温度的精确，确保样本与</b>Frag Enzyme 
+      <b>的处理全程在冰上操作；使用前应预热</b>PCR 
+      <b>仪至反应温度附近，再将反应液放入</b>PCR 
+      <b>仪中。</b>
+    </p> 
+  </conbody> 
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="AB3131A1-045317F-548F052585811FA-4BB720"> 
+  <title>基因组 DNA 储存条件</title>  
+  <conbody> 
+    <p>本酶切试剂盒兼容的 DNA 储存 buffer 有：水、EB、0.1×TE、buffer AE、TE 等常见提取溶解 buffer。</p>
+    <p>为了防止过多的 EDTA、EGTA 等抑制剂对打断时效的影响，建议样品提取时溶于水、EB 或 0.1×TE 中， 以确保打断结果一致性：</p>  
+    <p> 若 DNA 提取过程中带入其他成分复杂（高盐离子/蛋白/二价阳离子/ EDTA/ EGTA），建议在酶切打 断之前使用 2 倍体积磁珠进行纯化，用水、EB 或 0.1×TE 洗脱，回收率约 90%。关于 DNA Clean Beads 的使用注意事项及纯化步骤，请参照本说明书附录 A 及步骤 3.5 或步骤 3.7。</p>  
+    <p> 若基因组 DNA 较珍贵，建议使用 50 ng 投入量，同等提取条件及溶解 buffer 的非珍贵 DNA，参考 步骤 3.1 进行打断测试，取 3-5 ng 使用 Agilent 2100 对其片段分布进行检测，根据结果适当调整 30°C 反应时间使打断主带符合预期。</p> 
+  </conbody> 
+</concept>

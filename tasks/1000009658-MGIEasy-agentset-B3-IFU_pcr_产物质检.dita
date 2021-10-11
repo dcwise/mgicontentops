@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task xml:lang="en-us" id="A7BC3D15-1191453-814F21587155741-57C685"> 
+  <title>PCR 产物质检</title>  
+  <taskbody> 
+    <steps> 
+      <step> 
+        <cmd>使用 Qubit® dsDNA HS Assay Kit 或 Quant-iT™ PicoGreen® dsDNA Assay Kit 等双链 DNA 荧光定量试剂盒，按照定量试剂盒的操作说明对 PCR 纯化后产物进行定量。要求最终 PCR 产物的 产量达到相应商业捕获探针产品的要求。</cmd> 
+      </step>  
+      <step> 
+        <cmd>通过 Bioanalyzer、Tapestation (Agilent Technologies)；LabChip® GX、GXII、GX Touch (PerkinElmer)； Fragment Analyzer™ (Advanced Analytical)等基于电泳分离原理的设备对 PCR 纯化后产物进行片段分布检测。图 2 为标准实验流程 PCR 纯化产物的 Agilent 2100 Bioanalyzer 检测结果。</cmd> 
+      </step> 
+    </steps>  
+    <result> 
+      <p> 
+        <fig> 
+          <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic25_image002.png"/> 
+        </fig> 
+      </p>  
+      <p>图 2 标准流程 PCR 纯化后产物 Agilent 2100 Bioanalyzer 检测结果</p> 
+    </result> 
+  </taskbody> 
+</task>

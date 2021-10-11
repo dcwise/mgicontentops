@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="AD15131A-3004581-41F215487D12528-745729"> 
+  <title>附录 A 关于磁珠及纯化</title>  
+  <conbody> 
+    <p>本试剂套装推荐使用套装内的 MGIEasy DNA 纯化磁珠试剂盒（MGI, Cat. No. 1000005278）的 DNA Clean beads 或 AMPure® XP （Agencourt, Cat. No. A63882）进行磁珠纯化。如果使用其他品牌的磁 珠，纯化磁珠比例可能需要重新摸索。</p>
+  </conbody> 
+</concept>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7C35131-A310058-471F254A7D15558-741557"> 
+  <title>单链环化</title>  
+  <conbody> 
+    <p>3.14.1 取出 MGIEasy 环化模块，在冰上配制单链环化反应液（见表 20）。</p>
+    <p>表 20 单链环化反应液的配制</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic31_image001.png"/> 
+      </fig> 
+    </p>  
+    <p>Splint Buffer 11.6 μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic31_image002.png"/>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic31_image003.png"/>DNA Rapid Ligase 0.5 μL Total 12.1 μL
+    </p>  
+    <p>3.14.2 用移液器吸取 12.1 μL 配制好的单链环化反应液加入步骤 3.13.3 的 PCR 管中，涡旋震荡 3 次，每</p>  
+    <p>次 3 s，瞬时离心将反应液收集至管底。</p>  
+    <p>3.14.3 将步骤 3.14.2 中的 PCR 管置于 PCR 仪上，按照表 21 的条件进行反应。之后，提前准备表 22 的 酶切消化反应液。</p>  
+    <p>表 21 单链环化反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic31_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>37°C 30 min</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic31_image005.png"/> 
+    </p>  
+    <p>3.14.4 反应结束后，将 PCR 管瞬时离心并置于冰上，立即进入下步反应。</p> 
+  </conbody> 
+</concept>

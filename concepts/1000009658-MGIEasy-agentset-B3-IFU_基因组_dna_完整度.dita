@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7D1511A-9811F21-5A87F1528745514-B87460"> 
+  <title>基因组 DNA 完整度</title>  
+  <conbody> 
+    <p>推荐使用完整度较好（无明显降解或轻微降解）且纯度良好（OD260/OD280=1.8 ~ 2.0，OD260/OD230＞2.0） 的高质量基因组 DNA</p>
+  </conbody> 
+</concept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7C3D511-0048141-1A7C1D5257455CB-8C4DA5"> 
+  <title>杂交后 PCR 产物纯化及定量</title>  
+  <conbody> 
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic29_image002.png"/> 
+      </fig>  
+      <b>注意：操作前请仔细阅读附录</b>A 
+      <b>关于磁珠及纯化。</b>
+    </p>  
+    <p>3.12.1 提前 30 min 取出 DNA Clean Beads 置于室温，使用前充分震荡混匀。</p>  
+    <p>3.12.2 吸取 100 μL DNA Clean Beads 至步骤 3.11.5 的 100 μL 杂交后 PCR 产物中，充分震荡混 匀至所有磁珠悬浮。</p>  
+    <p>3.12.3 室温孵育 5 min。</p>  
+    <p>3.12.4 将离心管瞬时离心，置于磁力架，静置 2-5 min 至液体澄清，用移液器小心吸取上清并丢弃。</p>  
+    <p>3.12.5 保持离心管置于磁力架上，加入 200 μL 新鲜配制的 80%乙醇漂洗磁珠及管壁，静置 30 s 后 小心吸取上清并丢弃。</p>  
+    <p>3.12.6 重复步骤 3.10.5，尽量吸干管内液体，有少量残留在管壁时可将离心管瞬时离心，在磁力架上 分离后，用小量程的移液器将管底液体吸干。</p>  
+    <p>3.12.7 保持离心管置于磁力架上，打开离心管管盖，室温干燥，直至磁珠表面无反光、无开裂。</p>  
+    <p>3.12.8 将离心管从磁力架上取下，加入 32 μL TE Buffer 进行 DNA 洗脱，用移液器轻轻吹打至少 10</p>  
+    <p>次至所有磁珠悬浮。</p>  
+    <p>3.12.9 室温下孵育 5 min。</p>  
+    <p>3.12.10 将离心管瞬时离心，置于磁力架上，静置 2-5 min 至液体澄清，用移液器吸取 30 μL 上清液转 移到新的 1.5 mL 离心管中。</p>  
+    <p>3.12.11 使用 Qubit® dsDNA HS Assay Kit 或 Quant-iT™ PicoGreen® dsDNA Assay Kit 等双链 DNA 荧光定量试剂盒，按照定量试剂盒的操作说明对杂交后 PCR 纯化后产物进行定量，要求 最终杂交后 PCR 产物的摩尔产量≥1 pmol，请参照如下公式 1 进行计算，例如：主带 350 bp 的打断产物，PCR 产物主片段大小 430 bp，其产量应达到 280 ng。如需将多个样本混合测 序，建议根据 MGIEasy DNA Adapters 说明书使用规则设计混合方案（参照附录 B），在定量 后进行不同 Adapters 样本混合，混合后总量为 1 pmol，总体积≤48 μL。</p>  
+    <p> 
+      <b>公式</b>1 双链 DNA 分子质量与摩尔数之间的换算
+    </p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic29_image003.png"/>1 pmol PCR 产物对应的质量(ng)=
+    </p>  
+    <p>DNA 主片段大小(bp) 1000 bp</p>  
+    <p>×660 ng</p>  
+    <p>✔ 
+      <b>停止点：</b>PCR 
+      <b>纯化后产物可置</b>-20
+      <b>°</b>C 
+      <b>冰箱储存，待变性环化。</b>
+    </p> 
+  </conbody> 
+</concept>

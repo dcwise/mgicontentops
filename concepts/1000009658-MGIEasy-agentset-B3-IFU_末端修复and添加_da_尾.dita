@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="AB351A39-0045817-F54871458415D56-A1B258"> 
+  <title>末端修复&amp;添加 dA 尾</title>  
+  <conbody> 
+    <p>3.3.1 根据磁珠片段筛选/纯化后 DNA 定量结果，若总量≤ 100 ng，则可全部投入进行末端修复；若总量</p>
+    <p>≥100 ng，则建议取 100 ng DNA 进行末端修复。体积应≤40 μL，不足 40 μL 部分用 TE Buffer</p>  
+    <p>补足。</p>  
+    <p>3.3.2 在冰上配制末端修复反应液（见表 8）。</p>  
+    <p>表 8 末端修复反应&amp;添加 dA 尾反应液的配制</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image001.png"/> 
+      </fig> 
+    </p>  
+    <p>ERAT Buffer 7.1 μL</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image002.png"/>  
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image003.png"/>ERAT Enzyme Mix 2.9 μL Total 10 μL
+    </p>  
+    <p>3.3.3 用移液器吸取 10 μL 配制好的末端修复反应液加入磁珠片段筛选或纯化后的 40 μL 样本中，涡旋震 荡 3 次，每次 3s，瞬时离心将反应液收集至管底。</p>  
+    <p>3.3.4 将步骤 3.3.3 所述 PCR 管置于 PCR 仪上，按照表 9 中的条件进行反应。</p>  
+    <p>表 9 末端修复反应&amp;添加 dA 尾反应条件</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image004.png"/> 
+      </fig> 
+    </p>  
+    <p>热盖 On</p>  
+    <p>37°C 30 min</p>  
+    <p>65°C 15 min</p>  
+    <p>4°C Hold</p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image005.png"/> 
+    </p>  
+    <p>3.3.5 反应结束后，瞬时离心将反应液收集至管底。</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image007.png"/> 
+      </fig>  
+      <b>注意：不建议在此处停止，请继续做步骤 </b>3.4
+      <b>。如果必须停止，末端修复产物可以放在</b>-20
+      <b>°</b>C 
+      <b>冰 箱过夜，但产量可能会下降 </b>20%
+      <b>左右。</b>
+    </p>  
+    <p> 
+      <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic20_image009.png"/> 
+    </p> 
+  </conbody> 
+</concept>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="ABC3D153-1391053-814715471724154-ACAD9C"> 
+  <title>基因组 DNA 起始量</title>  
+  <conbody> 
+    <p>本试剂盒适用的人基因组 DNA 起始量范围是 50-400 ng。随着基因组 DNA 量的减少，成功转换成含有接 头的 DNA 片段比例会下降，若基因组 DNA 量足够，优先推荐使用 200 ng 及以上基因组 DNA（推荐浓度</p>
+    <p>≥15 ng/μL）进行文库构建，以达到最优效果。</p> 
+  </conbody> 
+</concept>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A3D11300-5314121-4A7138745578617-C46A7A"> 
+  <title>磁珠使用前注意事项</title>  
+  <conbody> 
+    <p> 磁珠使用前，提前 30 min 从 4°C 取出，涡旋混匀且置于室温，使其平衡至室温，有利于保证回收效率。</p>
+    <p> 磁珠每次使用前，需振荡或用移液器上下吹打，确保充分混匀。</p>  
+    <p> 磁珠使用量直接影响纯化得到的 DNA 片段的下限长度。磁珠用量越高，纯化得到的 DNA 片段的下限长 度越小。</p> 
+  </conbody> 
+</concept>

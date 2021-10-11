@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="AC3D1513-1390481-F4A85500C914129-AA9189"> 
+  <title>产品描述</title>  
+  <conbody> 
+    <p>MGIEasy 外显子组酶切文库制备试剂套装是针对华大智造（MGI）高通量测序平台量身打造的的外显子文库 制备试剂套装，包括 MGIEasy 酶切 DNA 文库制备试剂套装和 MGIEasy 外显子组捕获辅助试剂盒。</p>
+    <p>本试剂套装可快速将 50-400 ng 人基因组 DNA 制备成 MGI 高通量测序平台专用的文库，并提供多款探针 产品在 MGI 平台的捕获适配方案。本试剂盒采用高质量的酶学组成，改进型接头连接技术以及具有强扩增效 率的高保真酶，显著提高文库转化率与扩增效率；试剂盒中提供的所有试剂都经过严格的质量控制和功能验 证，最大程度上保证了文库制备的稳定性和重复性</p>  
+    <p> 
+      <fig> 
+        <image href="../graphics/1000009658-MGIEasy-agentset-B3-IFU_topic3_image002.png"/> 
+      </fig>  
+      <b>若使用</b>MGI Exome V4 Probe 
+      <b>或</b>MGI Exome V5 Probe
+      <b>，请按照《</b>MGIEasy 
+      <b>外显子组捕获</b>V4 
+      <b>探针试剂套装使用说明书》或《</b>MGIEasy 
+      <b>外显子组捕获</b>V5 
+      <b>探针试剂套装使用说明书》要求 进行建库和捕获操作。</b>
+    </p> 
+  </conbody> 
+</concept>

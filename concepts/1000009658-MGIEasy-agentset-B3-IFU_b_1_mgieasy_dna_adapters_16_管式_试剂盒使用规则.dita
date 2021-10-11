@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7B31A31-0043847-F2157A1258757FA-88A839"> 
+  <title>B-1 MGIEasy DNA Adapters-16 （管式）试剂盒使用规则</title>  
+  <conbody> 
+    <p> 基于碱基平衡的设计原则，在使用时需将 Adapter 成组使用，试剂盒中包含的 Adapter 具备如下的分组 规则：</p>
+    <p>4 个 Adapter 成组：01-04、13-16，共计 2 组；</p>  
+    <p>8 个 Adapter 成组：97-104，共计 1 组。</p>  
+    <p> 当每个样本数据量要求相同时，不同样本数目可参考表 24 所示的推荐 Barcode 组合方案： 表 24 MGIEasy DNA Adapters-16 （管式）试剂盒使用规则</p>  
+    <p> 
+      <table> 
+        <tgroup cols="2" colsep="1" rowsep="1"> 
+          <colspec colname="col1"/>  
+          <colspec colname="col2"/>  
+          <tbody> 
+            <row> 
+              <entry colname="col1">样本数/lane</entry>  
+              <entry colname="col2">使用方法（举例）</entry> 
+            </row>  
+            <row> 
+              <entry colname="col1" translate="no">1</entry>  
+              <entry colname="col2"> 
+                <p>需至少使用 1 组 Adapter：</p>  
+                <p>1、加一组 4 Adapter（如 01-04），将 4 个 Adapter 取等体积混合成 mix 后加入样本中 或 2、加一组 8 Adapter（97-104），将 8 个 Adapter 取等体积混合成 mix 后加入样本中</p> 
+              </entry> 
+            </row>  
+            <row> 
+              <entry morerows="6" colname="col1" translate="no">2</entry>  
+              <entry colname="col2">需至少使用 1 组 Adapter：</entry> 
+            </row>  
+            <row> 
+              <entry colname="col2">1、加一组 4 Adapter（如 01-04），每个编号 Adapter 取等体积，两两组合，混合成 2 份</entry> 
+            </row>  
+            <row> 
+              <entry colname="col2">等体积 mix，分别加入 2 个样本中（如 01-04，将 01 和 02 等体积混合成 mix 后加入样</entry> 
+            </row>  
+            <row> 
+              <entry colname="col2">本 1 中，将 03 和 04 等体积混合成 mix 后加入样本 2 中）</entry> 
+            </row>  
+            <row> 
+              <entry colname="col2">或 2、加一组 8 Adapter（97-104），每个编号 Adapter 取等体积，每 4 个编号 Adapter</entry> 
+            </row>  
+            <row> 
+              <entry colname="col2">混合成 1 份 mix，形成 2 份等体积 mix，分别加入 2 个样本中（如将 97-100 等体积混合</entry> 
+            </row>  
+            <row> 
+              <entry colname="col2">成 mix 后加入样本 1 中，将 101-104 等体积混合成 mix 后加入样本 2 中）</entry> 
+            </row>  
+            <row> 
+              <entry colname="col1" translate="no">3</entry>  
+              <entry colname="col2"> 
+                <p>需至少使用 2 组 Adapter：</p>  
+                <p>样本 1、2 采用上述（2 样本数/lane）方法加 Adapter，样本 3 采用上述（1 样本数/lane 方法加 Adapter，注意样本 1、2 与样本 3 需使用不同组别的 Adapter</p> 
+              </entry> 
+            </row> 
+          </tbody> 
+        </tgroup> 
+      </table> 
+    </p>  
+    <p>）</p>  
+    <table> 
+      <tgroup cols="2" colsep="1" rowsep="1"> 
+        <colspec colname="col1"/>  
+        <colspec colname="col2"/>  
+        <tbody> 
+          <row> 
+            <entry colname="col1" translate="no">4</entry>  
+            <entry colname="col2"> 
+              <p>需至少使用 1 组 Adapter：</p>  
+              <p>1、加一组 4 Adapter（如 01-04），每个编号 Adapter 取等体积，分别加入 4 个样本中</p>  
+              <p translate="no">（如 01-04，将 01、02、03、04 分别依次加样本 1、2、3、4 中）</p>  
+              <p>或 2、加一组 8 Adapter（97-104），每个编号 Adapter 取等体积，两两组合，混合成 4 份等体积 mix，分别加入 4 个样本中（如将 97-98、99-100、101-102、103-104 分别 等体积混合成 4 份 mix 后，分别依次加入样本 1、2、3、4 中）</p> 
+            </entry> 
+          </row>  
+          <row> 
+            <entry colname="col1" translate="no">5</entry>  
+            <entry colname="col2"> 
+              <p>需至少使用 2 组 Adapter：</p>  
+              <p>样本 1-4 采用上述（4 样本数/lane）方法加 Adapter，样本 5 采用上述（1 样本数/lane） 方法加 Adapter，注意样本 1-4 与样本 5 需使用不同组别的 Adapter</p> 
+            </entry> 
+          </row>  
+          <row> 
+            <entry colname="col1" translate="no">6</entry>  
+            <entry colname="col2"> 
+              <p>需至少使用 2 组 Adapter：</p>  
+              <p>样本 1-4 采用上述（4 样本数/lane）方法加一组 Adapter，样本 5-6 采用上述（2 样本数</p>  
+              <p>/lane）方法加一组 Adapter，注意样本 1-4 与样本 5-6 需使用不同组别的 Adapter</p> 
+            </entry> 
+          </row>  
+          <row> 
+            <entry colname="col1" translate="no">7</entry>  
+            <entry colname="col2"> 
+              <p>需使用全部 3 组 Adapter，分三步操作：</p>  
+              <p>1）样本 1-4 采用上述（4 样本数/lane）方法加一组 Adapter，</p>  
+              <p>2）样本 5-6 采用上述（2 样本数/lane）方法加一组 Adapter，</p>  
+              <p>3）样本 7，使用剩余的一组 Adapter，可以加该组内一个单 Adapter，或者加组内所有编 号 Adapter 取等体积混合成的 Adapter mix</p>  
+              <p>注意样本 1-4、样本 5-6、样本 7 需使用不同组别的 Adapter</p> 
+            </entry> 
+          </row>  
+          <row> 
+            <entry colname="col1" translate="no">8</entry>  
+            <entry colname="col2"> 
+              <p>需至少使用 1 组 Adapter：</p>  
+              <p>1、加一组 8 Adapter（97-104），每个编号 Adapter 取等体积，分别加入每个样本</p>  
+              <p>或 2、选取两组 4 Adapter（01-04 和 13-16），每个编号 Adapter 取等体积，每个样本 加 1 个 Adapter</p> 
+            </entry> 
+          </row> 
+        </tbody> 
+      </tgroup> 
+    </table>  
+    <p>当样本数据量要求不相同时，需遵循在一条lane中数据量要求大于20%的样本不得使用不成组的Adapter。 例如有9个样本pooling于一条lane中，其中有1个样本要求数据量为30%，此时需采用如下Barcode的方案： 8个样本使用Adapter 97-104，另外一个样本不可使用单独的一个Adapter，而是要使用Adapter 01-04或 Adapter 13-16。</p> 
+  </conbody> 
+</concept>

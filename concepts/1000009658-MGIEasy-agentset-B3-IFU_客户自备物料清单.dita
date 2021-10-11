@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A4CD131A-9004381-F2154A876150517-F1004E"> 
+  <title>客户自备物料清单</title>  
+  <conbody> 
+    <p>表 3 客户自备物料清单</p>
+    <table> 
+      <tgroup cols="2" colsep="1" rowsep="1"> 
+        <colspec colname="col1"/>  
+        <colspec colname="col2"/>  
+        <tbody> 
+          <row> 
+            <entry morerows="6" colname="col1">仪器</entry>  
+            <entry colname="col2">移液器</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">漩涡混匀仪</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">小型离心机</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">磁力架 DynaMagTM-2（Thermo Fisher, Cat. No. 12321D）或同类产品</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">PCR 仪</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">Qubit® 3.0 荧光定量仪 (ThermoFisher, Cat. No. Q33216)</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">Agilent 2100 Bioanalyze (Agilent Technologies, Cat. No. G2939AA)</entry> 
+          </row>  
+          <row> 
+            <entry morerows="6" colname="col1">试剂</entry>  
+            <entry colname="col2">Nuclease free water (NF water) (Ambion, Cat. No. AM9937)</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2" translate="no">无水乙醇，100% 乙醇 (分析纯)</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">Qubit® ssDNA Assay Kit (Invitrogen, Cat. No. Q10212)</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2"> 
+              <p>Qubit® dsDNA HS Assay Kit (Invitrogen, Cat. No. Q32854)</p>  
+              <p>安捷伦高灵敏度 DNA 分析试剂盒 (Agilent, Cat. No. 5067-4626)</p> 
+            </entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">或 DNA 分析试剂盒 (Agilent, Cat. No. 5067-1504)</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">商业探针杂交所需的试剂盒</entry> 
+          </row>  
+          <row> 
+            <entry colname="col2">探针结合磁珠</entry> 
+          </row>  
+          <row> 
+            <entry colname="col1">耗材</entry>  
+            <entry colname="col2"> 
+              <p>移液器吸头</p>  
+              <p>1.5 mL 离心管 (Axygen, Cat. No. MCT-150-C)</p>  
+              <p>0.2 mL PCR 管 (Axygen, Cat. No. PCR-02-C)</p>  
+              <p>或 96 孔板 (Axygen, Cat. No. PCR-96M2-HS-C)</p>  
+              <p>2.0 mL 离心管 (Axygen, Cat. No. MCT-200-C) 或同类产品</p>  
+              <p>Qubit® Assay Tubes (Invitrogen, Cat. No. Q32856) 或</p>  
+              <p>0.5 mL Thin Wall PCR Tubes (Axygen, Cat. No. PCR-05-C)</p> 
+            </entry> 
+          </row> 
+        </tbody> 
+      </tgroup> 
+    </table> 
+  </conbody> 
+</concept>

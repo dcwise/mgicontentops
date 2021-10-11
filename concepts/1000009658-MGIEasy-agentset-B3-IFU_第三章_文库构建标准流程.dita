@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept xml:lang="en-us" id="A7B3D131-9004347-F1548715254157C-312067"> 
+  <title>第三章 文库构建标准流程</title>  
+  <conbody> 
+    <p>本流程使用 200 ng 人基因组 DNA，酶切打断后 36 μL+12 μL 磁珠片段筛选，最终得到插入片段主带约 330 bp 的 DNA 文库，用于 PE150 测序。</p>
+    <p>若样本 DNA 投入量不同，请根据步骤 3.2 磁珠片段筛选/纯化中的表 7 和步骤 3.6 PCR 中的表 12 对磁珠纯 化操作和 PCR 循环数进行调整。</p> 
+  </conbody> 
+</concept>
